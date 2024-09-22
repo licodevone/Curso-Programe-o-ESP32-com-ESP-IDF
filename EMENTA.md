@@ -1,0 +1,48 @@
+# Conteúdo programático:
+## Introdução
+- Família de SoCs ESP32
+- Família de módulos ESP32
+- Placas de desenvolvimento
+- Setup do Ambiente de desenvolvimento
+- Instalação do ESP-IDF
+- VScode
+- Hello World
+- Conhecendo o ESP-IDF
+- Principais comandos do ESP-IDF em linha de comandos
+- menuconfig
+- Criando componentes
+- Kconfig
+- Usando componentes do  ESP-IDF components Registry
+- Usando componentes externos
+- Explorando os exemplos disponíveis no ESP-IDF
+- Logging
+- Trabalhando com GPIOs
+    - GPIO como saída
+    - GPIO como entrada
+    - Interrupção externa 
+- PWM
+- ADC
+- DAC
+- Comunicação serial
+   - UART
+   - I2C
+   - SPI
+- Sensores internos dos SoCs ESP32
+- Comunicação sem fio
+- WiFi
+- MQTT
+- ESPNow
+- Low Power
+- Memórias:
+- RAM
+- Flash: Partição, NVS e sistemas de Arquivos
+- FreeRTOS
+- Sensores
+- DHT11
+- LM75
+- MPU6050
+- Display:
+- OLED
+- ST7789
+- Bluetooth (TBD)
+- USB (TBD)
